@@ -1,0 +1,12 @@
+.container {
+    flex: 1;
+    height: 18px;
+    padding: 0 4px;
+}
+
+:global .ui-video-seek-slider .hover-time {
+    background: black;
+    font-size: 12px;
+    font-family: monospace;
+    padding: 4px 8px;
+}

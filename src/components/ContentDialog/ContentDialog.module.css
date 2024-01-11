@@ -1,0 +1,12 @@
+.item {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 8px;
+    margin: 0 -8px;
+    cursor: pointer;
+}
+
+.item:hover {
+    background: #eee;
+}

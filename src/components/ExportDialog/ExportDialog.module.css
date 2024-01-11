@@ -1,0 +1,14 @@
+.placeholder {
+    height: 24px;
+}
+
+.progressBar {
+    border: 1px solid #bbb;
+    height: 24px;
+}
+
+.progressValue {
+    background: #0075ff;
+    height: 24px;
+    margin: -1px;
+}
